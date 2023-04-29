@@ -3,7 +3,7 @@ using namespace std;
  
 int main(){
 
-    cout<<"********** REALIZAR EL PRESUPUESTO **********"<<endl;
+    cout<<"********** REALIZAR EL PRESUPUESTO IESTP ACORA **********"<<endl;
 
     int metros_opcion1{0};
 

@@ -3,7 +3,7 @@
 
 int main(){
 
-    std::cout<<"HOLA ESTUDIANTES DEL TERCER SEMESTRE" <<std::endl; //este es un saltop de linea
+    std::cout<<"HOLA ESTUDIANTES DEL TERCER SEMESTRE DEL IESTP ACORA" <<std::endl; //este es un saltop de linea
     
     return 0;
 
